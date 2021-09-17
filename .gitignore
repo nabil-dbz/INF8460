@@ -1,3 +1,4 @@
 pkgs/
 transformers/
 venv/
+*/.ipynb_checkpoints/
