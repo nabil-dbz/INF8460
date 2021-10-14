@@ -2,3 +2,6 @@ pkgs/
 transformers/
 venv/
 */.ipynb_checkpoints/
+*.txt
+*.*.zip
+*checkpoint*
