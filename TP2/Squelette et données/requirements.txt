@@ -1,0 +1,10 @@
+pandas
+os
+nltk
+re
+matplotlib.pyplot
+numpy
+tensorflow
+io
+collections 
+scikit-learn
