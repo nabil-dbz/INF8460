@@ -69,7 +69,6 @@ def categorical_crossentropy_ignore():
 
 def create_bi_lstm_model(max_length, types_dict, tag_index) : 
     
-    print("Create function called")
     model = Sequential()
     model.add(InputLayer(input_shape=(max_length, )))
     model.add(Embedding(len(types_dict), 128))
